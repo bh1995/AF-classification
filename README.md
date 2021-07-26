@@ -1,7 +1,7 @@
 project_name
 ==============================
 
-This repo holds the code used for project on binary classification of AF from raw ECG data. All code used is in the src folder. Feel free to read the Medium blog which discussed the project in more depth at, " ".
+This repo holds the code used for project on binary classification of AF from raw ECG data. All code used is in the src folder. Feel free to read the Medium blog which discussed the project in more depth at, https://bjornkhansen95.medium.com/heart-disease-classification-using-transformers-in-pytorch-8dbd277e079.
 
 Project Organization
 ------------
