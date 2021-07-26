@@ -1,7 +1,7 @@
 project_name
 ==============================
 
-A short description of the project.
+This repo holds the code used for project on binary classification of AF from raw ECG data. All code used is in the src folder. Feel free to read the Medium blog which discussed the project in more depth at, " ".
 
 Project Organization
 ------------
